@@ -21,6 +21,7 @@ const (
 var MODEL_TO_ENCODING = map[string]string{
 	// chat
 	"gpt-4":         MODEL_CL100K_BASE,
+	"gpt-4o":         MODEL_CL100K_BASE,
 	"gpt-3.5-turbo": MODEL_CL100K_BASE,
 	// text
 	"text-davinci-003": MODEL_P50K_BASE,

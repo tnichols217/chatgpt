@@ -25,6 +25,7 @@ const (
 	GPT4TurboPreview      = "gpt-4-1106-preview"
 	GPT4VisionPreview     = "gpt-4-vision-preview"
 	GPT4                  = "gpt-4"
+	GPT4O                  = "gpt-4o"
 	GPT3Dot5Turbo1106     = "gpt-3.5-turbo-1106"
 	GPT3Dot5Turbo0613     = "gpt-3.5-turbo-0613"
 	GPT3Dot5Turbo0301     = "gpt-3.5-turbo-0301"
