@@ -5,7 +5,7 @@ import (
 	"github.com/charmbracelet/bubbles/textarea"
 	"github.com/charmbracelet/bubbles/viewport"
 
-	"github.com/j178/chatgpt"
+	"github.com/tnichols217/chatgpt"
 )
 
 type InputMode int

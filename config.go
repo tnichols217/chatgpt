@@ -11,7 +11,7 @@ import (
 	"github.com/mitchellh/go-homedir"
 	"github.com/sashabaranov/go-openai"
 
-	"github.com/j178/chatgpt/tokenizer"
+	"github.com/tnichols217/chatgpt/tokenizer"
 )
 
 type ConversationConfig struct {

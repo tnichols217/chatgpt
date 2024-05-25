@@ -21,8 +21,8 @@ import (
 	"github.com/muesli/reflow/wordwrap"
 	"github.com/muesli/reflow/wrap"
 
-	"github.com/j178/chatgpt"
-	"github.com/j178/chatgpt/tokenizer"
+	"github.com/tnichols217/chatgpt"
+	"github.com/tnichols217/chatgpt/tokenizer"
 )
 
 type (

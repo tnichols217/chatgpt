@@ -1,4 +1,4 @@
-module github.com/j178/chatgpt
+module github.com/tnichols217/chatgpt
 
 go 1.21
 
