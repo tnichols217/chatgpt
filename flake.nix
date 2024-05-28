@@ -9,6 +9,9 @@
     let
       pkgs = import inputs.nixpkgs { inherit system; };
     in {
+      default = {
+        chatgpt = pkgs.callPackage ./package.nix { };
+      };
       packages = rec {
         chatgpt = pkgs.callPackage ./package.nix { };
         default = chatgpt;
